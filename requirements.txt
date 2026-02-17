@@ -1,0 +1,4 @@
+discord.js-selfbot-v13==1.9.0
+dotenv==16.4.0
+groq-sdk==0.9.0
+axios==1.6.0
